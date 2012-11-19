@@ -1,4 +1,4 @@
-gadgeteer
+Gadgeteer
 =========
 
 Hardware Hacks with MS Gadgeteer
